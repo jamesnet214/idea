@@ -1,1 +1,11 @@
 # uxidea
+
+![image](https://user-images.githubusercontent.com/52397976/202206642-84716e27-2135-4b9e-9fab-d9fc29b81465.png)
+
+![image](https://user-images.githubusercontent.com/52397976/202206809-04128136-5d6c-44d5-8ec3-20b53d533424.png)
+
+![image](https://user-images.githubusercontent.com/52397976/202206829-6c084242-122d-4de0-8456-c8e43360d9d5.png)
+
+![image](https://user-images.githubusercontent.com/52397976/202206860-b8c98724-0fa6-482e-ace2-62200b24c947.png)
+
+![image](https://user-images.githubusercontent.com/52397976/202207575-daabde03-ec1a-4f73-bd46-40b2b3a970fa.png)
